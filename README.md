@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @koushikamboru
-- 👀 I’m interested in learning and using almost all technology features
-- 🌱 I’m currently learning C,C#,python,Web development,UiPath etc
+- 👀 I’m interested in learning and using almost all new technology features.
+- 🌱 I’m currently learning C,C#,python,Web development,UiPath etc..
 - 💞️ I’m looking to collaborate on CAD,PCB designing,Web services,Programming,Business  etc...
 - 📫 How to reach me
 - Instgram - https://www.instagram.com/koushik_amboru/
 - LinkedIn - https://www.linkedin.com/in/koushik-amboru-243b591a6
 - Twitter  - https://twitter.com/KoushikAmboru
 - E-mail   - koushikamboru2002@gmail.com
--  Phone no - +91 7989954097.
+- Phone no - +91 7989954097.

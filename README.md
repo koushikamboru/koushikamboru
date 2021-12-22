@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on CAD,PCB designing,Web services,Programming,Business  etc...
 - 📫 How to reach me
 - Instgram - https://www.instagram.com/koushik_amboru/
-- LinkedIn - https://www.linkedin.com/in/koushik-amboru-243b591a6
-- Twitter  - https://twitter.com/KoushikAmboru
+- LinkedIn - https://www.linkedin.com/in/koushik-amboru/
+- Twitter  - https://twitter.com/koushik_amboru
 - E-mail   - koushikamboru2002@gmail.com
-- Phone no - +91 7989954097.
+- Phone no - +91 7780239794.

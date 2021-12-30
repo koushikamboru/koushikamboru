@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C,C#,python,Web development,UiPath etc..
 - 💞️ I’m looking to collaborate on CAD,PCB designing,Web services,Programming,Business  etc...
 - 📫 How to reach me
-- Instgram - https://www.instagram.com/koushik_amboru/
-- LinkedIn - https://www.linkedin.com/in/koushik-amboru/
-- Twitter  - https://twitter.com/koushik_amboru
 - E-mail   - koushikamboru2002@gmail.com
-- Phone no - +91 7780239794.
+- Mobile   - +91 7780239794
+- LinkedIn - https://www.linkedin.com/in/koushik-amboru/
+- Instgram - https://www.instagram.com/koushik_amboru/
+- Twitter  - https://twitter.com/koushik_amboru.
